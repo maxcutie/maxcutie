@@ -1,1 +1,1 @@
-<img src="https://cdn.cute.ms/bg.png" alt="waifu">
+<img src="bg.png" alt="waifu">
